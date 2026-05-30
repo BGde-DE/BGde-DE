@@ -5,3 +5,5 @@ Ich betreibe und dokumentiere homelab-nahe Infrastruktur mit Fokus auf stabile S
 **Stack:** Proxmox · OPNsense (VLAN/Unbound/HAProxy/IDS) · Docker · TrueNAS · OpenWRT · Home Assistant/KNX
 
 **Portfolio:** 👉 https://github.com/BGde-DE/homelab-ops
+
+**Kontakt:** siehe „Public email“ in meinem GitHub-Profil.
