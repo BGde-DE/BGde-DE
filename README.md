@@ -6,4 +6,4 @@ Ich betreibe und dokumentiere homelab-nahe Infrastruktur mit Fokus auf stabile S
 
 **Portfolio:** 👉 https://github.com/BGde-DE/homelab-ops
 
-**Kontakt:** bg_github@nanometric.de
+**Kontakt:** bg_github (A) nanometric.de
