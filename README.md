@@ -1,4 +1,4 @@
-# BGde-DE – Sysadmin · Netzwerk · Support
+# Benjamin Goldbeck (BGde-DE) – Sysadmin · Netzwerk · Support
 
 Ich betreibe und dokumentiere homelab-nahe Infrastruktur mit Fokus auf stabile Services, Segmentierung, Backup/Restore und Troubleshooting.
 
